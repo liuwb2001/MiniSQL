@@ -1,0 +1,5 @@
+打开命令行窗口，在命令行中运行interpreter.py
+
+先进入到本文件夹下，输入 python interpreter.py -u [ID] -p [Password]
+
+默认ID为root     默认Password为123456

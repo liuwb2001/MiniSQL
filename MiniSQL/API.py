@@ -1,8 +1,3 @@
-#!/user/bin/env python
-# -*- coding:utf-8 -*-
-# module: API.py
-# create by 郑雨琪 on 2021/6/7
-
 from abc import abstractproperty
 from os import sep
 from CatalogManager import *

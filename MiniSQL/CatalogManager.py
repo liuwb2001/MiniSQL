@@ -1,8 +1,3 @@
-#!/user/bin/env python
-# -*- coding:utf-8 -*-
-# module: CatalogManager.py
-# create by 郑雨琪 on 2021/6/7
-
 from genericpath import exists
 import os
 import shutil

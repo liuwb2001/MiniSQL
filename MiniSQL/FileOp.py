@@ -1,8 +1,3 @@
-#!/user/bin/env python
-# -*- coding:utf-8 -*-
-# module: FileOp.py
-# create by 郑雨琪 on 2021/6/8
-
 import time
 import json
 import os

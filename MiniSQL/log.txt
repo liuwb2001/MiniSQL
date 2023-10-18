@@ -1,6 +1,1 @@
-Sat Jun 19 19:05:55 2021: [create DB]	创建数据库 db1 成功
-Sat Jun 19 19:05:55 2021: [create DB]	创建数据库失败，当前已有该数据库名 db1
-Sat Jun 19 19:05:55 2021: [create Index]	索引 priKey_person_pid 创建成功
-Sat Jun 19 19:05:55 2021: [Create Table]	创建表 person 成功
-Sat Jun 19 19:05:55 2021: [drop Index]	删除索引 priKey_person_pid 成功
-Sat Jun 19 19:05:55 2021: [Drop Table]	删除表 person 成功
+
